@@ -3,7 +3,7 @@ date.getHours();
 date.getTime();
 date.toISOString();
 
-const date2 = new Date(1993, 1, 12); // 0 enero 11 dic
+const date2 = new Date(1993, 1, 12); // 0 january 11 december
 date2.getHours();
 date2.getTime();
 date2.toISOString();

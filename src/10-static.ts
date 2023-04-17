@@ -9,7 +9,7 @@ console.log('Math.max', Math.max(1,2,3,4,5,66,77,899,))// 899
     }
  }
 //  const math = new MyMath();
-//  math.pi; // static prevent htis to happends
+//  math.PI; // static prevent this to happends
 
 console.log('MyMath.PI', MyMath.PI);// 3.14
 console.log('MyMath.PI', MyMath.max(1,32,445,667,7,6543));//6543

@@ -41,7 +41,7 @@ constructor(
   public database: string,
   public password: string,
   public port: number,
-  private host : number,// onces you a commplish the contract you may add your own parameters
+  private host : number,// once you a commplish the contract you may add your own parameters
 
 ) {}
 
